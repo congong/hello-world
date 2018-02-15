@@ -4,3 +4,11 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/hebeicongcong/hello-world.git
 git push -u origin master
+
+
+
+第一次初始（git pull）之前，先执行以下语句
+git branch --set-upstream master origin/master
+
+
+
